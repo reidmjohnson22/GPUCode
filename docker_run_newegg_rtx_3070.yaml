@@ -1,0 +1,2 @@
+pi@raspberrypi:~/inventory-hunter
+$ ./docker_run.bash -c ./GPUCode/newegg_rtx_3070 -a discord -w hhttps://discordapp.com/api/webhooks/805871195441332234/BC5AEOpFbtocvbctScyr3T4Fa2Wjjx53pUiBljKcJ-WazlYEjmxb6vOZ-AFhOSPR8ejn
