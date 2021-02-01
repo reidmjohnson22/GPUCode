@@ -1,0 +1,8 @@
+pi@raspberrypi:~
+$ git clone https://github.com/EricJMarti/inventory-hunter
+
+pi@raspberrypi:~
+$ cd inventory-hunter
+
+pi@raspberrypi:~/inventory-hunter
+$ docker pull docker pull ericjmarti/inventory-hunter
